@@ -1,0 +1,12 @@
+# Ignore Datasets
+fra.txt
+*.txt
+
+# Ignore Saved AI Weights
+*.pth
+*.pt
+*.pkl
+
+# Ignore Mac System Files
+.DS_Store
+__pycache__/
